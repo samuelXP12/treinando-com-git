@@ -1,0 +1,57 @@
+html {
+    background-color:#c14f84;
+}
+ body {
+    font-size: 1em;
+ }
+
+.h1 {
+    padding: 10px;
+    color: #b90c3a;
+    background-color: #9109f3;
+    border: solid 5px #000000;
+    font-size: 3em;
+}
+
+.links {
+    border: solid green 7px;
+    padding: 10px;
+    background-color: #01fa79;
+    color: #23a200;
+    font-size: 1.5em;
+}
+
+div .img {
+    border: solid 1em #037678;
+    padding: 2em;
+    background-color: #9109f3;
+}
+div .imagem {
+    border: solid 1em #000000;
+    padding: 1em;
+    width: 3.5em;
+    height: 3.5em ;
+    background-color: #23a200;
+}
+
+div .listas {
+    border-top: solid 10px;
+    border-bottom: solid 10px;
+}
+
+div .e {
+    display: block;
+}
+
+.div {
+    border-left: solid 10px;
+    border-right: solid 10px;
+    border-bottom: solid 10px;
+    background-color: red;
+}
+
+.ordenadas {
+    background-color: aliceblue;
+    font-size: 2em;
+} 
+
